@@ -1,0 +1,40 @@
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+header {
+  position: relative;
+  top: 0;
+  margin-bottom: 100px;
+}
+
+hr {
+  margin-top: 100px;
+  border-top: 1px solid #d1d5db;
+}
+
+.cartButton {
+  position: relative;
+  color: blue;
+}
+
+#soLuong {
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  background: white;
+  color: black;
+  border-radius: 50%;
+  border: 1px solid white;
+  text-align: center;
+  line-height: 1rem;
+  font-weight: 600;
+  left: 2rem;
+  user-select: none;
+}

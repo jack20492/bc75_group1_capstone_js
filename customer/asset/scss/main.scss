@@ -1,0 +1,9 @@
+@import "./base/reset";
+@import "./base/container";
+@import "./layout/footer";
+@import "./layout/product-tag";
+@import "./abstracts/responsive";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
